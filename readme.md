@@ -1,0 +1,1 @@
+![alt text](https://api.travis-ci.com/gregory-vc/clck.svg?branch=master)
