@@ -1,2 +1,2 @@
 # Go clck
-![alt text](https://api.travis-ci.com/gregory-vc/clck.svg?branch=master)
+![https://travis-ci.com/gregory-vc/clck/](https://api.travis-ci.com/gregory-vc/clck.svg?branch=master)
